@@ -1,3 +1,3 @@
 # demo
 
-random plain text
+plain text for demo
